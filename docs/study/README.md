@@ -1,0 +1,1 @@
+For storing theoretical knowledge on technical concepts covering planned topics in the roadmap.

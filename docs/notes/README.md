@@ -1,0 +1,1 @@
+For informal technical knowledge and findings encountered outside the planned learning objectives. Keep notes concise and organised by topic. Link relevant notes to weekly logs or research documents when appropriate. Do not require a fixed template.

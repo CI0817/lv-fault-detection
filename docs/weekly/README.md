@@ -1,0 +1,1 @@
+Each weekly log should primarily document your learning journey.
